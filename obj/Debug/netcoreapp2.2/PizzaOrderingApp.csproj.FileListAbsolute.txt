@@ -1,0 +1,11 @@
+C:\Users\adsouza\source\repos\PizzaOrderingApp\bin\Debug\netcoreapp2.2\PizzaOrderingApp.deps.json
+C:\Users\adsouza\source\repos\PizzaOrderingApp\bin\Debug\netcoreapp2.2\PizzaOrderingApp.runtimeconfig.json
+C:\Users\adsouza\source\repos\PizzaOrderingApp\bin\Debug\netcoreapp2.2\PizzaOrderingApp.runtimeconfig.dev.json
+C:\Users\adsouza\source\repos\PizzaOrderingApp\bin\Debug\netcoreapp2.2\PizzaOrderingApp.dll
+C:\Users\adsouza\source\repos\PizzaOrderingApp\bin\Debug\netcoreapp2.2\PizzaOrderingApp.pdb
+C:\Users\adsouza\source\repos\PizzaOrderingApp\obj\Debug\netcoreapp2.2\PizzaOrderingApp.csprojAssemblyReference.cache
+C:\Users\adsouza\source\repos\PizzaOrderingApp\obj\Debug\netcoreapp2.2\PizzaOrderingApp.csproj.CoreCompileInputs.cache
+C:\Users\adsouza\source\repos\PizzaOrderingApp\obj\Debug\netcoreapp2.2\PizzaOrderingApp.AssemblyInfoInputs.cache
+C:\Users\adsouza\source\repos\PizzaOrderingApp\obj\Debug\netcoreapp2.2\PizzaOrderingApp.AssemblyInfo.cs
+C:\Users\adsouza\source\repos\PizzaOrderingApp\obj\Debug\netcoreapp2.2\PizzaOrderingApp.dll
+C:\Users\adsouza\source\repos\PizzaOrderingApp\obj\Debug\netcoreapp2.2\PizzaOrderingApp.pdb
