@@ -1,0 +1,17 @@
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\UnitTestsPizza.deps.json
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\UnitTestsPizza.runtimeconfig.json
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\UnitTestsPizza.runtimeconfig.dev.json
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\UnitTestsPizza.dll
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\PizzaOrderingApp.dll
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\PizzaOrderingApp.pdb
+C:\Users\adsouza\source\repos\UnitTestsPizza\obj\Debug\netcoreapp2.2\UnitTestsPizza.csprojAssemblyReference.cache
+C:\Users\adsouza\source\repos\UnitTestsPizza\obj\Debug\netcoreapp2.2\UnitTestsPizza.csproj.CoreCompileInputs.cache
+C:\Users\adsouza\source\repos\UnitTestsPizza\obj\Debug\netcoreapp2.2\UnitTestsPizza.AssemblyInfoInputs.cache
+C:\Users\adsouza\source\repos\UnitTestsPizza\obj\Debug\netcoreapp2.2\UnitTestsPizza.AssemblyInfo.cs
+C:\Users\adsouza\source\repos\UnitTestsPizza\obj\Debug\netcoreapp2.2\UnitTestsPizza.csproj.CopyComplete
+C:\Users\adsouza\source\repos\UnitTestsPizza\bin\Debug\netcoreapp2.2\UnitTestsPizza.pdb
+C:\Users\adsouza\source\repos\UnitTestsPizza\obj\Debug\netcoreapp2.2\UnitTestsPizza.dll
+C:\Users\adsouza\source\repos\UnitTestsPizza\obj\Debug\netcoreapp2.2\UnitTestsPizza.pdb
